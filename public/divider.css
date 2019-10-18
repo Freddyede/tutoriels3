@@ -1,0 +1,14 @@
+#divider{
+    border-top: 1px solid #000 !important;
+}
+
+.dropdown-item{
+    background: none !important;
+    text-decoration: none;
+    color:#fff !important;
+}
+.dropdown-item:hover{
+    background: none !important;
+    text-decoration: none;
+    color:#f45e32 !important;
+}
